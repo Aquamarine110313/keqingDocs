@@ -21,7 +21,7 @@ Only the members with `Administration` permission can use this command.
 ### Command Information
 
 #### Format :
-`[p]star`
+`astar`
 
 #### Usage :
 - `Reply` the drop message with `[p]star` command
